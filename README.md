@@ -1,16 +1,11 @@
-# two_k_text
+# Flutter 2K Text
 
-A new Flutter project.
+Flutter app to test performance by rendering 2k text.
 
-## Getting Started
+## All frameworks github links:
+- [Android Compose](https://github.com/SanjayDevTech/perf-compose-2ktext)
+- [Flutter](https://github.com/SanjayDevTech/perf-flutter-2ktext)
+- [React Native](https://github.com/SanjayDevTech/perf-reactnative-2ktext)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To see performance reports: https://github.com/SanjayDevTech/performance-benchmark-android/tree/main/2k-text
