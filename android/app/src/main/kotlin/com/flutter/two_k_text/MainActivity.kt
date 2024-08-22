@@ -1,0 +1,5 @@
+package com.flutter.two_k_text
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
